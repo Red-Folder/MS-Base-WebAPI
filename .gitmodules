@@ -1,0 +1,3 @@
+[submodule "remote/MS-Common-Library"]
+	path = remote/MS-Common-Library
+	url = https://github.com/Red-Folder/MS-Common-Library.git
